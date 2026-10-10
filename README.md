@@ -1,9 +1,10 @@
 <div align="center">
 
-<img width="736" height="383" alt="download (1)" src="https://github.com/user-attachments/assets/f28e1380-7484-45e5-9e7f-f8eb97e9daf7" />
-
 
 # Hey, I'm Oviya 👋
+
+<img width="736" height="383" alt="download (1)" src="https://github.com/user-attachments/assets/f28e1380-7484-45e5-9e7f-f8eb97e9daf7" />
+
 
 ### CSBS Student · Designer in Progress · Developer in the Making
 
@@ -54,7 +55,7 @@ I enjoy understanding how thoughtful interfaces are designed and learning how id
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Oviya)
-
+[linkdin]
 </td>
 </tr>
 </table>
