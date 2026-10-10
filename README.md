@@ -96,7 +96,6 @@ Exploring object-oriented programming fundamentals.
 | [c-programming](https://github.com/Oviya) | C programming fundamentals |
 | [web-design-practice](https://github.com/Oviya) | HTML and CSS projects |
 
-*Replace the example repository links with your actual repository URLs.*
 
 <div align="center">
 
