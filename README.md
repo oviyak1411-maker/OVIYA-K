@@ -1,6 +1,7 @@
-div align="center">
+<div align="center">
 
-<img src="oviya-banner.png" alt="Oviya's pixel-art banner" width="100%">
+<img width="736" height="383" alt="download (1)" src="https://github.com/user-attachments/assets/d7f58a51-3e6e-4fae-83d2-2ed91e4f8f52" />
+
 
 # Hello, I'm Oviya 👋
 
@@ -15,7 +16,8 @@ div align="center">
 <table>
 <tr>
 <td width="28%" align="center" valign="middle">
-<img src="oviya-avatar.png" alt="Oviya's pixel-art avatar" width="180">
+<img width="736" height="736" alt="oviya-avatar" src="https://github.com/user-attachments/assets/d500f2fa-94ec-49e9-911a-ee24fa01d680" />
+
 </td>
 <td valign="middle">
 
