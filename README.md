@@ -1,19 +1,104 @@
+<div align="center">
+
+<img src="./oviya-banner.png" alt="Oviya's GitHub banner" width="100%" />
+
+# Hey, I'm Oviya 👋
+
+### CSBS Student · Designer in Progress · Developer in the Making
+
+*Learning one step at a time, designing with curiosity, and building with purpose.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oviya)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="30%" valign="top" align="center">
+
+<img src="./oviya-avatar.png" alt="Oviya avatar" width="190" />
+
+## Oviya
+
+CSBS Student
+
+📍 India
+
+[GitHub Profile](https://github.com/Oviya)
+
+</td>
+<td valign="top">
+
+## 🔗 Know About Me
+
+Hey there! I'm Oviya. I'm a CSBS student exploring the world of design and development.
+
+I enjoy understanding how thoughtful interfaces are designed and learning how ideas turn into working experiences on the web.
+
+## 🚀 Currently Learning
+
+| Area | What I'm exploring |
+|---|---|
+| 🎨 UI/UX Design | Designing useful, intuitive experiences |
+| 🖌️ Figma | Layouts, components, and prototypes |
+| 💻 C Programming | Strong programming fundamentals |
+| 🌐 HTML & CSS | Bringing interface ideas to the browser |
+| 🐍 Python | Clear, versatile programming concepts |
+| ☕ Java | Object-oriented programming fundamentals |
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Oviya)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 My Learning Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 UI/UX Journey
+
+Design experiments, Figma practice, and interface ideas.
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 C Programming
+
+Beginner programs and practice as I build my fundamentals.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Design Practice
+
+Landing pages and small projects made while learning HTML and CSS.
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ My Journey
+
+One step at a time—learning, experimenting, and improving.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-# Hello, I'm Oviya 👋
+---
 
-CSBS Student · Designer in Progress · Developer in the Making
-
-<img src="oviya-banner.png" width="100%" /><img width="736" height="383" alt="download (1)" src="https://github.com/user-attachments/assets/5cbfd53f-ddc3-4864-8d36-877894159314" />
-
-
-### ✦ About Me
-Exploring UI/UX design, web development, and creative technology.
-
-### ✦ Currently Learning
-🎨 Figma & UI/UX  
-💻 HTML, CSS & C Programming  
-🚀 Exploring AI tools
+*Thanks for stopping by! ✨*
 
 </div>
