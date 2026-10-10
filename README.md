@@ -19,7 +19,8 @@
 <tr>
 <td width="30%" valign="top" align="center">
 
-<img src="./oviya-avatar.png" alt="Oviya avatar" width="190" />
+<img width="736" height="736" alt="oviya-avatar" src="https://github.com/user-attachments/assets/2b96f4a2-37ec-464f-a4c1-aa9b143d1db0" />
+
 
 ## Oviya
 
@@ -82,9 +83,10 @@ Beginner programs and practice as I build my fundamentals.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Design Practice
+### Python
 
-Landing pages and small projects made while learning HTML and CSS.
+beginner python programs
+
 
 </td>
 <td width="50%" valign="top">
@@ -92,8 +94,6 @@ Landing pages and small projects made while learning HTML and CSS.
 ### ✨ My Journey
 
 One step at a time—learning, experimenting, and improving.
-
-### python
 
 </td>
 </tr>
