@@ -1,109 +1,103 @@
-<div align="center">
+div align="center">
 
+<img src="oviya-banner.png" alt="Oviya's pixel-art banner" width="100%">
 
-# Hey, I'm Oviya 👋
+# Hello, I'm Oviya 👋
 
-<img width="736" height="383" alt="download (1)" src="https://github.com/user-attachments/assets/f28e1380-7484-45e5-9e7f-f8eb97e9daf7" />
-
-
-### CSBS Student · Designer in Progress · Developer in the Making
-
-*Learning one step at a time, designing with curiosity, and building with purpose.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oviya)
+**CSBS Student · Designer in progress · Developer in the making**
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="30%" valign="top" align="center">
-
-<img width="736" height="736" alt="oviya-avatar" src="https://github.com/user-attachments/assets/2b96f4a2-37ec-464f-a4c1-aa9b143d1db0" />
-
-
-## Oviya
-
-CSBS Student
-
-📍 India
-
-<img width="736" height="1308" alt="download" src="https://github.com/user-attachments/assets/b8d64207-2b54-44a8-90f6-4c5882107364" />
-
-
-</td>
-<td valign="top">
-
 ## 🔗 Know About Me
 
-Hey there! I'm Oviya. I'm a CSBS student exploring the world of design and development.
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
+<img src="oviya-avatar.png" alt="Oviya's pixel-art avatar" width="180">
+</td>
+<td valign="middle">
+
+### Hey there! I'm Oviya.
+
+I'm a CSBS student exploring the world of design and development.
 
 I enjoy understanding how thoughtful interfaces are designed and learning how ideas turn into working experiences on the web.
 
-## 🚀 Currently Learning
-
-| Area | What I'm exploring |
-|---|---|
-| 🎨 UI/UX Design | Designing useful, intuitive experiences |
-| 🖌️ Figma | Layouts, components, and prototypes |
-| 💻 C Programming | Strong programming fundamentals |
-| 🌐 HTML & CSS | Bringing interface ideas to the browser |
-| 🐍 Python | Clear, versatile programming concepts |
-| ☕ Java | Object-oriented programming fundamentals |
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Oviya)
-[linkdin]
 </td>
 </tr>
 </table>
 
----
-
-## 📌 My Learning Projects
+## 🔗 Currently Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 UI/UX Journey
-
-Design experiments, Figma practice, and interface ideas.
+### 🎨 UI/UX Design
+Designing useful, intuitive experiences.
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 C Programming
-
-Beginner programs and practice as I build my fundamentals.
+### 🖌️ Figma
+Exploring layouts, components and prototypes.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Python
-
-beginner python programs
-
+### 💻 C Programming
+Building strong programming fundamentals.
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ My Journey
+### 🌐 HTML & CSS
+Bringing interface ideas to the browser.
 
-One step at a time—learning, experimenting, and improving.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python
+Learning clear, versatile programming concepts.
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java
+Exploring object-oriented programming fundamentals.
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+## 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oviya)
+<!-- Replace the LinkedIn URL below with your own profile -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0969da?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+> Learning one step at a time, designing with curiosity, and building with purpose.
 
 ---
 
-*Thanks for stopping by! ✨*
+## 📌 Projects to Explore
+
+| Repository | Focus |
+|---|---|
+| [ui-ux-journey](https://github.com/Oviya) | Figma and UI/UX practice |
+| [c-programming](https://github.com/Oviya) | C programming fundamentals |
+| [web-design-practice](https://github.com/Oviya) | HTML and CSS projects |
+
+*Replace the example repository links with your actual repository URLs.*
+
+<div align="center">
+
+**Made with curiosity by Oviya ✨**
 
 </div>
