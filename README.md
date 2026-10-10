@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./oviya-banner.png" alt="Oviya's GitHub banner" width="100%" />
+<img width="736" height="383" alt="download (1)" src="https://github.com/user-attachments/assets/f28e1380-7484-45e5-9e7f-f8eb97e9daf7" />
+
 
 # Hey, I'm Oviya 👋
 
@@ -26,7 +27,8 @@ CSBS Student
 
 📍 India
 
-[GitHub Profile](https://github.com/Oviya)
+<img width="736" height="1308" alt="download" src="https://github.com/user-attachments/assets/b8d64207-2b54-44a8-90f6-4c5882107364" />
+
 
 </td>
 <td valign="top">
@@ -90,6 +92,8 @@ Landing pages and small projects made while learning HTML and CSS.
 ### ✨ My Journey
 
 One step at a time—learning, experimenting, and improving.
+
+### python
 
 </td>
 </tr>
